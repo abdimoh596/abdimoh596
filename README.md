@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mohamad Abdi! <br>🎓I am a Computer Science Graduate from the University of Washington<br>💻 Passionate about software, AI, scalable systems, gaming, music and more<br>🔧 I have experience working with tools like Java, PostgreSQL, AWS, React, and more <br>🧠I'm enthusiastic about exploring the dynamic world of technology and its potential to create innovative solutions that impact our lives<br>🚀 Always learning
+👋 Hi, I'm Mohamad Abdi! <br>🎓 I am a Computer Science Graduate from the University of Washington<br>💻 Passionate about software, AI, scalable systems, gaming, music and more<br>🔧 I have experience working with tools like Java, PostgreSQL, AWS, React, and more <br>🧠 Enthusiastic about exploring the dynamic world of technology<br>🚀 Always learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdimoh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdimoh596@gmail.com) 
