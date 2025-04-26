@@ -1,5 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/b535adbf-69c4-409f-80eb-82642fa9ae2d)
-
+![github-header-image (1)](https://github.com/user-attachments/assets/59b54524-7891-483f-8db3-6a236c3e859e)
 # 💫 About Me:
 👋 Hi, I'm Mohamad Abdi! <br>🎓 I am a Computer Science Graduate from the University of Washington<br>💻 Passionate about software, AI, scalable systems, gaming, music and more<br>🔧 I have experience working with tools like Java, PostgreSQL, AWS, React, and more <br>🧠 Enthusiastic about exploring the dynamic world of technology<br>🚀 Always learning
 
